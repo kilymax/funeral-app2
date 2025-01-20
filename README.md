@@ -5,7 +5,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/lostie21yo/funeral-app2">
+  <a href="https://github.com/kilymax/funeral-app2">
     <img src="public\favicon.ico" alt="Logo" width="80" height="80">
   </a>
 </div>
@@ -73,7 +73,7 @@ This is a client web application for displaying 3D models of various objects (in
    npm start
    ```
 
-You can also open an already running application using [Vercel](https://ritual-journal.vercel.app/)
+You can also open an already running application using Vercel – [Funeral App](https://ritual-journal.vercel.app/)
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
@@ -101,7 +101,7 @@ You can also open an already running application using [Vercel](https://ritual-j
 
 Ilya K - [Telegram](https://t.me/leoncox) - leon.coxsw@gmail.com
 
-Project Link: [FuneralApp](https://github.com/lostie21yo/funeral-app2)
+Project Link: [Funeral App](https://github.com/kilymax/funeral-app2)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
